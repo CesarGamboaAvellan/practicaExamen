@@ -1,0 +1,20 @@
+45894428	Rodríguez	Carlos	2	2700	125
+61583111	Rojas	Sonia	1	242000	
+48589906	Espinoza	Adriana	1	338000	
+32084210	Cortés	Carolina	2	3300	82
+65163776	González	Elena	2	2300	80
+29311777	Zamora	Ana Lucía	2	2800	83
+18049777	Zúñiga	Elizabeth	2	3200	140
+67939801	Arrieta	Isabel	2	2900	177
+45208852	Castro	Pedro	1	268000	
+50764183	Ibarra	Jorge	2	2900	139
+52566923	Chacón	Mayela	1	273000	
+26057639	Fernández	David	1	257000	
+94518614	Ruiz	Osvaldo	1	309000	
+91613732	Morales	Rafael	1	284000	
+767508	Salas	Kenneth	2	2600	118
+32851718	Pérez	Adrián	2	2500	140
+98015494	Murillo	Juan	1	280000	
+83191047	Conejo	Irene	2	2400	68
+2656919	Murillo	Josué	2	2700	164
+69067675	Morales	José	2	2200	118

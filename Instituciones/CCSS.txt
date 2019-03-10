@@ -1,0 +1,20 @@
+28787365	Murillo	Josué	2	3400	147
+31068434	Vílchez	Roberto	2	3500	65
+24590000	Salas	Juan Carlos	2	3400	113
+61152023	Ramírez	Ronaldo	2	2800	161
+27379028	Alfaro	Diego	1	202000	
+22616098	Conejo	Leonel	2	2600	104
+48317979	Morales	Cristina	2	3000	107
+83391346	Rodríguez	Yolanda	2	2900	164
+68658636	Villalobos	Felicia	2	2200	157
+94737183	Fernández	Marielos	1	245000	
+4292202	Vásquez	Graciela	1	262000	
+26391640	Romero	Marta	2	2500	100
+98652757	García	Allan	1	296000	
+30183496	Martínez	Sonia	1	204000	
+88738001	Pereza	Jorge	2	2400	116
+49890023	Gamboa	Pedro	1	323000	
+30868664	Arias	Lucas	2	3200	160
+53484762	Alvarez	Sandra	1	227000	
+20445706	Rodríguez	Natalia	2	2000	163
+59975480	Salazar	Juan	1	328000	

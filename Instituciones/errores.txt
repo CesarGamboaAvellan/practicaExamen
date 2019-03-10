@@ -1,0 +1,30 @@
+18345432	Villalobos	Isabel	3	3300	65
+24397826	Alfaro	Santiago	1	319000	
+69322297	Vílchez	Roberto	2	2200	100
+37052238	Zúñiga	Elizabeth	2	2500	172
+47402609	Ibarra	Jorge		3200	103
+7954752	Villalobos	Felicia	2	3200	Mermelada
+53860989	Pereza	Jorge	3	Cartago	80
+15736816	Murillo	Josué	2	2200	101
+42836208	Rojas	Sonia	1	268000	
+9082139	Alvarez		1	206000	
+84171215	Leitón	Pedro	1	248000	
+43955290	Arias	Lucas	2	3200	Azúcar
+29913464	Murillo	Josué	-2	3100	175
+16270897	Vásquez	Graciela	-2	316000	
+20096606	Conejo	Irene	3	3400	116
+31538564	Salas	Kenneth	2	2400	161
+66802145	Pérez	Marta	2	San José	86
+31334383	Fernández	Raquel	1	272000	
+57745201	Ruiz	Sandra	1	259000	Sal
+29879835	Romero	Marta	2	2200	127
+45616651	Morales	Cristina	2	2400	168
+88452859		Pedro	0	310000	
+99202389	Morales	José	2	3400	129
+31142998	Ruiz	Osvaldo	1	255000	
+34824568	Rodríguez	Carlos	2	2900	72
+30523349	Hernández	Natalia	2	Heredia	153
+	Conejo	Leonel	2	3300	121
+72644950	Rodríguez	Natalia	0	2500	159
+1556658	Rodríguez	Yolanda	-2	2300	119
+23564504	Martínez	Sonia	1	275000	Huevos
